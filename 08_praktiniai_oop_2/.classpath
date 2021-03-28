@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="08_2_01.Items/src/main/java"/>
+	<classpathentry kind="src" path="08_2_01.Items/src/test/java"/>
+	<classpathentry kind="src" path="08_2_02.PersonalInformation/src/main/java"/>
+	<classpathentry kind="src" path="08_2_02.PersonalInformation/src/test/java"/>
+	<classpathentry kind="src" path="08_2_03.TelevisionPrograms/src/main/java"/>
+	<classpathentry kind="src" path="08_2_03.TelevisionPrograms/src/test/java"/>
+	<classpathentry kind="src" path="08_2_04.Books/src/main/java"/>
+	<classpathentry kind="src" path="08_2_04.Books/src/test/java"/>
+	<classpathentry kind="src" path="08_2_05.ConstructorOverload/src/main/java"/>
+	<classpathentry kind="src" path="08_2_05.ConstructorOverload/src/test/java"/>
+	<classpathentry kind="src" path="08_2_06.OverloadedCounter/src/main/java"/>
+	<classpathentry kind="src" path="08_2_06.OverloadedCounter/src/test/java"/>
+	<classpathentry kind="src" path="08_2_07.BiggestPetShop/src/main/java"/>
+	<classpathentry kind="src" path="08_2_07.BiggestPetShop/src/test/java"/>
+	<classpathentry kind="src" path="08_2_08.HealthStation/src/main/java"/>
+	<classpathentry kind="src" path="08_2_08.HealthStation/src/test/java"/>
+	<classpathentry kind="src" path="08_2_09.CardPayments/src/test/java"/>
+	<classpathentry kind="src" path="08_2_10.ComparingApartments/src/main/java"/>
+	<classpathentry kind="src" path="08_2_10.ComparingApartments/src/test/java"/>
+	<classpathentry kind="src" path="08_2_11.DatingApp/src/main/java"/>
+	<classpathentry kind="src" path="08_2_11.DatingApp/src/test/java"/>
+	<classpathentry kind="src" path="08_2_12.Money/src/main/java"/>
+	<classpathentry kind="src" path="08_2_12.Money/src/test/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

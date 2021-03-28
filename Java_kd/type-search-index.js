@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"kdRusne","l":"AbstractMunicipality"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"kdRusne","l":"ComparatorForPerson"},{"p":"kdRusne","l":"CompartorForBirth"},{"p":"kdRusne","l":"MunicipalityImpl"},{"p":"kdRusne","l":"PersonPredicateImpl"},{"p":"kdRusne","l":"TaxCalculatorImpl"}]
